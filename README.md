@@ -1,5 +1,5 @@
 PROBABILITY AND STATISTICS ASSIGNMENT 1
-
+=======
 An R package to generate the following from an input text file of words:
 1. Wordcloud of frequently occuring words
 2. Histogram of top 20 occuring words
@@ -13,8 +13,8 @@ Directions to use:
 5. When prompted, select the folder containing the text file. (All the text to be processed should be in the selected folder)
 6. The generated Wordcloud and Histograms will be created in the OUTPUT folder as .png files.
 
-AUTHOR:
-
+AUTHOR
+=====
 Lohitaksh Parmar
 Btech 2014059
 lohitaksh14059@iiitd.ac.in
